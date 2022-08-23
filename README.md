@@ -8,6 +8,7 @@ Projeto que realizei na Trybe. Um projeto que tem como objetivo criar uma paleta
  2. **CSS**
     - class
     - id
+    - Disply: flax
  3. **JavaScript**
     - Function
     - for
