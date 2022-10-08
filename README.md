@@ -19,7 +19,13 @@ Projeto que realizei na Trybe. Um projeto que tem como objetivo criar uma paleta
 
 ## Uso
 
-![Pixel Art Gif](./projectGif.gif)
+![Pixel Art Gif](./pintPicture.gif)
+
+
+![Pixel Art Gif](./projectImage.gif)
+
+
+![Pixel Art Gif](./newColors.gif)
 
 
 
