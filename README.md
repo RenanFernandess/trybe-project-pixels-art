@@ -19,15 +19,21 @@ Projeto que realizei na Trybe. Um projeto que tem como objetivo criar uma paleta
 
 ## Uso
 
+A pessoa usuária pode selecionar uma cor na paleta e pintar o quadro, também pode limpar o quadro clicando no botão "Limpar"
+
 ![Pixel Art Gif](./pintPicture.gif)
 
+<hr>
 
-![Pixel Art Gif](./projectImage.gif)
+A pessoa usuária pode alterar o tamanho do quadro, selecionando um valor no input e depois clicar no botão "vqv" para confirmar.
 
+![Pixel Art Gif](./sizeBoard.gif)
+
+<hr>
+
+A pessoa usuária pode gerar novas cores clicando no botão "Outras cores".
 
 ![Pixel Art Gif](./newColors.gif)
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
