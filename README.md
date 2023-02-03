@@ -7,7 +7,7 @@
 
 Projeto que realizei na Trybe. Um projeto que tem como objetivo criar uma paleta de cores onde o usuário pode escolher a cor desejada para realizar se desenho. Esse projeto tem também como objetivo fixir os aprendizados sobre o DOM alem de buscar novos conhecimentos.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Construido Com
  1. **HTML**
@@ -15,7 +15,7 @@ Projeto que realizei na Trybe. Um projeto que tem como objetivo criar uma paleta
  3. **JavaScript**
  3. **DOM**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Uso
 
@@ -35,14 +35,14 @@ A pessoa usuária pode gerar novas cores clicando no botão "Outras cores".
 
 ![Pixel Art Gif](./newColors.gif)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
 ## Contato
 
 * Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/) - renzinestuods@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Agradecimentos
 
