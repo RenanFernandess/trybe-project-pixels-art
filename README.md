@@ -40,6 +40,12 @@ A pessoa usuária pode gerar novas cores clicando no botão "Outras cores".
 
 ## Contato
 
-Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
+* Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/) - renzinestuods@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Agradecimentos
+
+* [Trybe](https://www.betrybe.com/)
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
